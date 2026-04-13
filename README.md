@@ -21,11 +21,11 @@ I build things that actually work for real people. I've been doing it since befo
 
 Software Engineer by trade, builder by nature. My brain runs at a pace that makes most people uncomfortable, which I've stopped apologising for.
 
-I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite in hand -- don't tell anyone. Around new people I'm quiet and a bit reserved, which throws people off when they later find out I built an entire edtech platform, two companies, and a funeral home website from scratch.
+I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite in hand -- don't tell anyone. Around new people I'm quiet and a bit reserved, which throws people off when they later find out I built an entire edtech platform, two companies, and a funeral cover website and CMS from scratch.
 
 I speak **English, Zulu, Afrikaans, Xhosa, Swati, Sotho and Tswana.** South Africa gave me that one for free.
 
-By day I'm at **[The Delta](https://thedelta.io)** building mobile apps. Outside of that:
+By day I'm at **[The Delta](https://thedelta.io)** building mobile apps and helping fast-moving founders kickstart, grow, and scale their ventures. Outside of that:
 
 - I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** -- an edtech NPO helping SA Grade 12 learners with university applications, NSFAS, APS scores, and bursaries. I built the website, the mobile app, the brand, the infrastructure, the chatbots -- basically everything except the matrics themselves.
 - I run **[DesignThat Cloud](https://designthat.cloud)** -- a hosting and web design company. I manage the servers personally. LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS. The whole stack.
@@ -40,12 +40,12 @@ These aren't side projects in the "I made a todo app" sense. These are real prod
 
 | Project | What I did |
 |---------|------------|
-| [UniApplyForMe](https://apply.org.za) | Website, mobile app, brand identity, full infrastructure, chatbots, SEO, AdSense (R95K+ since Sept 2024) -- all me |
+| [UniApplyForMe](https://apply.org.za) | Website, mobile app, brand identity, full infrastructure, chatbots, SEO, AdSense (R100K+ since Sept 2024) |
 | [DesignThat Cloud](https://designthat.cloud) | Entire hosting company including server setup and client management |
 | [DesignThat Dev](https://designthat.dev) | Design side of the DesignThat brand |
-| [Lithemba Funeral Cover](/) | Full website, actively maintained since founding |
-| [Boyd's Regalia](https://boydsregalia.co.za) | WooCommerce build with payment gateways |
-| UniApplyForMe mobile app | Built alone. Flutter. Available on Android. |
+| [Lithemba Funeral Cover](/) | Full website and CMS, actively maintained since founding |
+| [Boyd's House of Regalia](https://boydsregalia.co.za) | WooCommerce build with payment gateways |
+| UniApplyForMe mobile app | Flutter. Available on Android. Coming to iOS soon. |
 
 ---
 
@@ -106,7 +106,7 @@ ACF, Fluent Forms, FluentCRM, WP Mail SMTP, WP optimisation, Yoast SEO. Not just
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7A00?style=flat-square&logo=ahrefs&logoColor=white)
 ![AdSense](https://img.shields.io/badge/AdSense-4285F4?style=flat-square&logo=google-adsense&logoColor=white)
 
-Built UniApplyForMe's organic presence from scratch. The R95K+ AdSense revenue since September 2024 is the result of that work.
+Built UniApplyForMe's organic presence from scratch. The R100K+ revenue since September 2024 is the result of that work.
 
 ### Payment gateways
 PayFast, Yoco, Payflex, Flutterwave (my first one), PayGate. Integrated across WooCommerce and custom builds.
