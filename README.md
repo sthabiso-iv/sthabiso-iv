@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d2d00,100:4a4a00&height=120&section=header" width="100%"/>
 
-# Hey, I'm Mtho 👋
+# Hey, I'm Mtho
 
-**Cloud & Software Engineer · Johannesburg, South Africa 🇿🇦**
+**Cloud & Software Engineer · Johannesburg, South Africa**
 
-*I build things that actually work for real people — and I've been doing it since before it was my job.*
+I build things that actually work for real people. I've been doing it since before it was my job, and I'll probably be doing it long after everyone else has gone to sleep.
 
-[![Website](https://img.shields.io/badge/mthokozisi.link-0f3460?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.link)
+[![Website](https://img.shields.io/badge/mthokozisi.link-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthabiso)
 [![X](https://img.shields.io/badge/@Sthabiso__iv-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sthabiso_iv)
 [![Email](https://img.shields.io/badge/hello@mthokozisi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mthokozisi.com)
@@ -19,18 +19,39 @@
 
 ## Who I am
 
-I'm a Software Engineer who has somehow ended up doing everything — full-stack dev, cloud infrastructure, chatbot automation, SEO, server migrations, AI tooling, and running two businesses on the side. I speak 7 South African languages, code best at 2am with lo-fi beats and a Sprite, and I'm genuinely obsessed with using technology to make things more accessible.
+Software Engineer by trade, builder by nature. My brain runs at a pace that makes most people uncomfortable, which I've stopped apologising for.
 
-By day I work as a Software Engineer. Outside of that:
+I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite in hand -- don't tell anyone. Around new people I'm quiet and a bit reserved, which throws people off when they later find out I built an entire edtech platform, two companies, and a funeral home website from scratch.
 
-- 🎓 I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** — an edtech NPO that helps South African Grade 12 learners navigate university applications, NSFAS, APS scores, and bursaries. We've been at it for 5 years and have generated **R95K+ in revenue since September 2024** through Google AdSense alone. I built and manage pretty much everything on the platform.
-- ☁️ I run **[DesignThat Cloud](https://designthat.cloud)** — a cloud hosting and web design company. We host clients on dedicated servers I've set up and manage myself (LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS, the works).
+I speak **English, Zulu, Afrikaans, Xhosa, Swati, Sotho and Tswana.** South Africa gave me that one for free.
+
+By day I'm at **[The Delta](https://thedelta.io)** building mobile apps. Outside of that:
+
+- I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** -- an edtech NPO helping SA Grade 12 learners with university applications, NSFAS, APS scores, and bursaries. I built the website, the mobile app, the brand, the infrastructure, the chatbots -- basically everything except the matrics themselves.
+- I run **[DesignThat Cloud](https://designthat.cloud)** -- a hosting and web design company. I manage the servers personally. LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS. The whole stack.
+
+Currently finishing my BSc Computer Science at UNISA (2026 -- present). Tried once at NWU, made it to year 4, life had other plans. Second time around feels right.
+
+---
+
+## What I've built
+
+These aren't side projects in the "I made a todo app" sense. These are real products, real clients, real uptime responsibilities.
+
+| Project | What I did |
+|---------|------------|
+| [UniApplyForMe](https://apply.org.za) | Website, mobile app, brand identity, full infrastructure, chatbots, SEO, AdSense (R95K+ since Sept 2024) -- all me |
+| [DesignThat Cloud](https://designthat.cloud) | Entire hosting company including server setup and client management |
+| [DesignThat Dev](https://designthat.dev) | Design side of the DesignThat brand |
+| [Lithemba Funeral Cover](/) | Full website, actively maintained since founding |
+| [Boyd's Regalia](https://boydsregalia.co.za) | WooCommerce build with payment gateways |
+| UniApplyForMe mobile app | Built alone. Flutter. Available on Android. |
 
 ---
 
 ## What I actually know
 
-I've spent years getting my hands dirty across the full stack — not just writing code but *running things*. Here's the honest picture:
+Years of building real systems, not just running tutorials.
 
 ### Languages & frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -48,55 +69,61 @@ I've spent years getting my hands dirty across the full stack — not just writi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Cloud & infrastructure
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_(full_suite)-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(SES,_S3,_SNS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-> Dedicated servers, VPSes, LiteSpeed, CloudLinux, AlmaLinux, WHMCS, DNS management, SSL, firewalls — I've set it all up from scratch and keep it running.
+Dedicated servers, VPSes, LiteSpeed, CloudLinux, AlmaLinux -- set up from bare metal, kept running by me.
 
-### Backend & databases
+### Backend, databases & auth
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### Automation & AI
+Google Workspace OIDC for WordPress SSO. Microsoft 365 admin and service provisioning. Google Cloud for auth and VM management.
+
+### Automation & AI tooling
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![SendPulse](https://img.shields.io/badge/SendPulse-00A4E4?style=flat-square&logo=send&logoColor=white)
 
-> WhatsApp, Instagram & Facebook chatbots via SendPulse. Voice/SMS automation via Twilio. Workflow automation via n8n. LLM integrations via the Claude API.
+WhatsApp, Instagram and Facebook chatbots. Voice/SMS via Twilio. Workflow automation via n8n. LLM integrations and Claude API work. Started with Botmywork back when it was still alive -- that's how far back the automation interest goes.
 
-### CMS, SEO & marketing
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+### CMS, WordPress ecosystem
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google-search-console&logoColor=white)
 ![Yoast](https://img.shields.io/badge/Yoast_SEO-A4286A?style=flat-square&logo=yoast&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
+ACF, Fluent Forms, FluentCRM, WP Mail SMTP, WP optimisation, Yoast SEO. Not just installing plugins -- actually knowing what they do and when not to use them.
+
+### SEO, analytics & monetisation
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google-search-console&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7A00?style=flat-square&logo=ahrefs&logoColor=white)
 ![AdSense](https://img.shields.io/badge/AdSense-4285F4?style=flat-square&logo=google-adsense&logoColor=white)
 
-### Design & productivity
+Built UniApplyForMe's organic presence from scratch. The R95K+ AdSense revenue since September 2024 is the result of that work.
+
+### Payment gateways
+PayFast, Yoco, Payflex, Flutterwave (my first one), PayGate. Integrated across WooCommerce and custom builds.
+
+### Design
 ![Canva](https://img.shields.io/badge/Canva_(7_years)-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+The UniApplyForMe brand -- colours, logo, identity -- that's mine. DesignThat too. I also know my way around Acrobat, DocuSign and Adobe Sign when documents need to actually get signed.
+
+### Developer tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WHMCS](https://img.shields.io/badge/WHMCS-1B3A6B?style=flat-square&logo=whmcs&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google-workspace&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## Things I've built & run
-
-| | Project | What it is |
-|---|---------|------------|
-| 🎓 | [UniApplyForMe](https://apply.org.za) | SA edtech NPO — uni applications, NSFAS, bursaries. 5 years running. |
-| ☁️ | [DesignThat Cloud](https://designthat.cloud) | Hosting & web design company. I run the servers. |
-| 💸 | AdSense on UniApplyForMe | R95K+ generated since September 2024 |
-| 🤖 | Chatbot systems | WhatsApp + Instagram + Facebook bots via SendPulse & Twilio |
-| 🔧 | Server infrastructure | Dedicated servers, RAID configs, LiteSpeed stacks — built from scratch |
 
 ---
 
@@ -117,20 +144,21 @@ I've spent years getting my hands dirty across the full stack — not just writi
 
 ---
 
-## A few other things
+## The last bit
 
-- 🗣️ I speak **English, Zulu, Afrikaans, Xhosa, Swati, Sotho & Tswana**
-- 🎓 BSc Computer Science & Electronics — North-West University
-- 🏅 Golden Key Honour Society · Top 5% Learner · RCL President
-- ⏰ Best commits happen after midnight, lo-fi playlist on, Sprite in hand
-- 💬 *"Technology is most powerful when it brings people together."* — Matt Mullenweg
+- Golden Key Honour Society member
+- Top 5% learner at NWU
+- RCL President
+- Favourite colour is yellow (make of that what you will)
+- My brain has too many ideas in it at any given moment. I've accepted this.
+- "Technology is most powerful when it brings people together." -- Matt Mullenweg
 
 ---
 
 <div align="center">
 
-**Let's connect → [hello@mthokozisi.com](mailto:hello@mthokozisi.com) · [mthokozisi.link](https://mthokozisi.link) · [linkedin.com/in/sthabiso](https://linkedin.com/in/sthabiso)**
+**hello@mthokozisi.com -- mthokozisi.link -- linkedin.com/in/sthabiso**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a00,50:2d2d00,100:1a1a1a&height=80&section=footer" width="100%"/>
 
 </div>
