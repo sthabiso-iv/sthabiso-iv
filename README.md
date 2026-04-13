@@ -1,69 +1,63 @@
 <div align="center">
 
-# Hi there, I'm Mthokozisi Dhlamini 👋☁️
+# Mthokozisi Dhlamini
 
-### Software Engineer · Cloud Enthusiast · Cat Lover 🐈
-### Based in Johannesburg, South Africa 🇿🇦
+### Software Engineer · Johannesburg, South Africa 🇿🇦
 
-[![Website](https://img.shields.io/badge/Website-mthokozisi.link-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.link)
-[![X](https://img.shields.io/badge/X-@Sthabiso__iv-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sthabiso_iv)
-[![The Delta](https://img.shields.io/badge/The_Delta-thedelta.io-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://www.thedelta.io)
-[![DesignThat](https://img.shields.io/badge/DesignThat-designthat.cloud-6C63FF?style=for-the-badge&logo=cloud&logoColor=white)](https://designthat.cloud)
+[![Website](https://img.shields.io/badge/mthokozisi.link-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.link)
+[![X](https://img.shields.io/badge/@Sthabiso__iv-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sthabiso_iv)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthokozisi.dhlamini@thedelta.io)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About me
 
-I'm a **Software Engineer at The Delta**, passionate about building scalable cloud-based applications and elegant user experiences. Co-founder at **DesignThat** — crafting design and digital solutions for forward-thinking brands.
+Software Engineer at **[The Delta](https://thedelta.io)**, where I work across full-stack web and mobile development. I also run two side ventures: **[DesignThat](https://designthat.cloud)** — a design and digital solutions studio — and **[UniApplyForMe](https://apply.org.za)**, an edtech platform helping South African Grade 12 learners navigate university applications, NSFAS, and bursaries.
 
-- ☁️ Always in the cloud — building, deploying, and scaling
-- 🎯 Focused on **mobile apps**, **web platforms**, and **cloud infrastructure**
-- 🤝 Part of the **202404-Y-ZA-FSW** cohort and the **DesignThat** team
-- 🐈 Proud cat person
+- 🔭 Currently working on: AI agent research & tooling at The Delta, and scaling UniApplyForMe's content platform
+- 🤖 Exploring: LLM integrations, Claude API, and AI-powered workflows
+- 🌍 Building things that matter in the South African context
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-<div align="center">
-
-### Languages & Frameworks
+**Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Frameworks & libraries**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Backend & infra**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</div>
+---
+
+## What I'm building
+
+| | Project | Description |
+|---|---------|-------------|
+| 💼 | [The Delta](https://thedelta.io) | Full-stack & mobile dev — React, Flutter, Supabase |
+| 🤖 | AI Research (internal) | Agent platforms, LLM tooling, Claude API integrations |
+| 🎓 | [UniApplyForMe](https://apply.org.za) | Edtech platform for SA matrics — university access, NSFAS, bursaries |
+| 🎨 | [DesignThat](https://designthat.cloud) | Digital & design solutions for forward-thinking brands |
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [✈️ AirlineReservationSystem](https://github.com/sthabiso-iv/AirlineReservationSystem) | Full-featured airline reservation system | Java |
-| [🛒 MightyStoreFlutter](https://github.com/sthabiso-iv/MightyStoreFlutter) | E-commerce mobile app built with Flutter | Dart |
-| [🎮 MyArrayListGame](https://github.com/sthabiso-iv/MyArrayListGame) | Interactive game using Java data structures | Java |
-| [🌍 Euro-Afro Just Energy](https://github.com/DesignThat/Euro-Afro-Just-Energy) | Energy advocacy website for DesignThat | HTML |
-| [💬 FloatingWhatsAppWidget](https://github.com/DesignThat/FloatingWhatsAppWidget) | WordPress plugin for WhatsApp chat widget | PHP |
-| [🐌 FluentSlug](https://github.com/sthabiso-iv/FluentSlug) | PHP slugification utility | PHP |
-
----
-
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
 
@@ -72,31 +66,12 @@ I'm a **Software Engineer at The Delta**, passionate about building scalable clo
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sthabiso-iv&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
-## 🌐 Connect With Me
+## Get in touch
 
-<div align="center">
-
-[![Personal Site](https://img.shields.io/badge/🌍_mthokozisi.link-Visit-blue?style=for-the-badge)](https://mthokozisi.link)
-[![X / Twitter](https://img.shields.io/badge/X_@Sthabiso__iv-Follow-black?style=for-the-badge&logo=x)](https://x.com/Sthabiso_iv)
-[![The Delta](https://img.shields.io/badge/The_Delta-Work-orange?style=for-the-badge)](https://www.thedelta.io)
-[![DesignThat](https://img.shields.io/badge/DesignThat-Portfolio-purple?style=for-the-badge)](https://designthat.cloud)
-
-</div>
-
----
-
-<div align="center">
-
-*"Always in the cloud ☁️"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sthabiso-iv&color=blueviolet&style=flat-square)
+- 🌐 [mthokozisi.link](https://mthokozisi.link)
+- 🐦 [@Sthabiso_iv](https://x.com/Sthabiso_iv) on X
+- 📧 mthokozisi.dhlamini@thedelta.io
 
 </div>
