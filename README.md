@@ -8,7 +8,7 @@
 
 I build things that actually work for real people. I've been doing it since before it was my job, and I'll probably be doing it long after everyone else has gone to sleep.
 
-[![Website](https://img.shields.io/badge/mthokozisi.link-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.link)
+[![Website](https://img.shields.io/badge/mthokozisi.com-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mthokozisi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthabiso)
 [![X](https://img.shields.io/badge/@Sthabiso__iv-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sthabiso_iv)
 [![Email](https://img.shields.io/badge/hello@mthokozisi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mthokozisi.com)
@@ -157,7 +157,7 @@ The UniApplyForMe brand -- colours, logo, identity -- that's mine. DesignThat to
 
 <div align="center">
 
-**hello@mthokozisi.com -- mthokozisi.link -- linkedin.com/in/sthabiso**
+**hello@mthokozisi.com -- mthokozisi.com -- linkedin.com/in/sthabiso**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a00,50:2d2d00,100:1a1a1a&height=80&section=footer" width="100%"/>
 
