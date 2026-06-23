@@ -25,7 +25,7 @@ I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite
 
 I speak **English, Zulu, Afrikaans, Xhosa, Swati, Sotho and Tswana.** South Africa gave me that one for free.
 
-By day I'm at **[The Delta](https://thedelta.io)** building mobile apps and helping fast-moving founders kickstart, grow, and scale their ventures. Outside of that:
+By day:
 
 - I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** -- an edtech NPO helping SA Grade 12 learners with university applications, NSFAS, APS scores, and bursaries. I built the website, the mobile app, the brand, the infrastructure, the chatbots -- basically everything except the matrics themselves.
 - I run **[DesignThat Cloud](https://designthat.cloud)** -- a hosting and web design company. I manage the servers personally. LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS. The whole stack.
@@ -43,9 +43,9 @@ These aren't side projects in the "I made a todo app" sense. These are real prod
 | [UniApplyForMe](https://apply.org.za) | Website, mobile app, brand identity, full infrastructure, chatbots, SEO, AdSense (R100K+ since Sept 2024) |
 | [DesignThat Cloud](https://designthat.cloud) | Entire hosting company including server setup and client management |
 | [DesignThat Dev](https://designthat.dev) | Design side of the DesignThat brand |
-| [Lithemba Funeral Cover](/) | Full website and CMS, actively maintained since founding |
+| [Lithemba Funeral Cover](https://www.lithembafuneralcover.co.za) | Full website and CMS, actively maintained since founding |
 | [Boyd's House of Regalia](https://boydsregalia.co.za) | WooCommerce build with payment gateways |
-| UniApplyForMe mobile app | Flutter. Available on Android. Coming to iOS soon. |
+| [UniApplyForMe mobile app](https://apply.org.za/app/) | Flutter. Available on Android. Coming to iOS soon. |
 
 ---
 
