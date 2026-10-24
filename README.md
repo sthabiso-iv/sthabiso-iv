@@ -21,16 +21,16 @@ I build things that actually work for real people. I've been doing it since befo
 
 Software Engineer by trade, builder by nature. My brain runs at a pace that makes most people uncomfortable, which I've stopped apologising for.
 
-I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite in hand -- don't tell anyone. Around new people I'm quiet and a bit reserved, which throws people off when they later find out I built an entire edtech platform, two companies, and a funeral cover website and CMS from scratch.
+I enjoy working with people but I do my best work alone at 2am, lo-fi on, Sprite in hand - don't tell anyone. Around new people I'm quiet and a bit reserved, which throws people off when they later find out I built an entire edtech platform, two companies, and a funeral cover website and CMS from scratch.
 
 I speak **English, Zulu, Afrikaans, Xhosa, Swati, Sotho and Tswana.** South Africa gave me that one for free.
 
 By day:
 
-- I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** -- an edtech NPO helping SA Grade 12 learners with university applications, NSFAS, APS scores, and bursaries. I built the website, the mobile app, the brand, the infrastructure, the chatbots -- basically everything except the matrics themselves.
-- I run **[DesignThat Cloud](https://designthat.cloud)** -- a hosting and web design company. I manage the servers personally. LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS. The whole stack.
+- I'm Chairperson & Co-Founder of **[UniApplyForMe](https://apply.org.za)** - an edtech NPO helping SA Grade 12 learners with university applications, NSFAS, APS scores, and bursaries. I built the website, the mobile app, the brand, the infrastructure, the chatbots - basically everything except the matrics themselves.
+- I run **[DesignThat Cloud](https://designthat.cloud)** - a hosting and web design company. I manage the servers personally. LiteSpeed, CloudLinux, cPanel, AlmaLinux, WHMCS. The whole stack.
 
-Currently finishing my BSc Computer Science at UNISA (2026 -- present). Tried once at NWU, made it to year 4, life had other plans. Second time around feels right.
+Currently finishing my BSc Computer Science at UNISA (2026 - present). Tried once at NWU, made it to year 4, life had other plans. Second time around feels right.
 
 ---
 
@@ -77,7 +77,7 @@ Years of building real systems, not just running tutorials.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-Dedicated servers, VPSes, LiteSpeed, CloudLinux, AlmaLinux -- set up from bare metal, kept running by me.
+Dedicated servers, VPSes, LiteSpeed, CloudLinux, AlmaLinux - set up from bare metal, kept running by me.
 
 ### Backend, databases & auth
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -91,14 +91,14 @@ Google Workspace OIDC for WordPress SSO. Microsoft 365 admin and service provisi
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![SendPulse](https://img.shields.io/badge/SendPulse-00A4E4?style=flat-square&logo=send&logoColor=white)
 
-WhatsApp, Instagram and Facebook chatbots. Voice/SMS via Twilio. Workflow automation via n8n. LLM integrations and Claude API work. Started with Botmywork back when it was still alive -- that's how far back the automation interest goes.
+WhatsApp, Instagram and Facebook chatbots. Voice/SMS via Twilio. Workflow automation via n8n. LLM integrations and Claude API work. Started with Botmywork back when it was still alive - that's how far back the automation interest goes.
 
 ### CMS, WordPress ecosystem
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![Yoast](https://img.shields.io/badge/Yoast_SEO-A4286A?style=flat-square&logo=yoast&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
-ACF, Fluent Forms, FluentCRM, WP Mail SMTP, WP optimisation, Yoast SEO. Not just installing plugins -- actually knowing what they do and when not to use them.
+ACF, Fluent Forms, FluentCRM, WP Mail SMTP, WP optimisation, Yoast SEO. Not just installing plugins - actually knowing what they do and when not to use them.
 
 ### SEO, analytics & monetisation
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
@@ -115,7 +115,7 @@ PayFast, Yoco, Payflex, Flutterwave (my first one), PayGate. Integrated across W
 ![Canva](https://img.shields.io/badge/Canva_(7_years)-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
-The UniApplyForMe brand -- colours, logo, identity -- that's mine. DesignThat too. I also know my way around Acrobat, DocuSign and Adobe Sign when documents need to actually get signed.
+The UniApplyForMe brand - colours, logo, identity - that's mine. DesignThat too. I also know my way around Acrobat, DocuSign and Adobe Sign when documents need to actually get signed.
 
 ### Developer tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -151,7 +151,7 @@ The UniApplyForMe brand -- colours, logo, identity -- that's mine. DesignThat to
 - RCL President
 - Favourite colour is yellow (make of that what you will)
 - My brain has too many ideas in it at any given moment. I've accepted this.
-- "Technology is most powerful when it brings people together." -- Matt Mullenweg
+- "Technology is most powerful when it brings people together." - Matt Mullenweg
 
 ---
 
