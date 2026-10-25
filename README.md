@@ -157,7 +157,7 @@ The UniApplyForMe brand - colours, logo, identity - that's mine. DesignThat too.
 
 <div align="center">
 
-**hello@mthokozisi.com -- mthokozisi.com -- linkedin.com/in/sthabiso**
+**hello@mthokozisi.com - [mthokozisi.com](https://www.mthokozisi.com) - [linkedin.com/in/sthabiso](https://www.linkedin.com/in/sthabiso)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a00,50:2d2d00,100:1a1a1a&height=80&section=footer" width="100%"/>
 
