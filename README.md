@@ -138,7 +138,7 @@ The UniApplyForMe brand - colours, logo, identity - that's mine. DesignThat too.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sthabiso-iv&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=sthabiso-iv&theme=default)](https://github-streak-bijay-shre-stha.vercel.app/sthabiso-iv)
 
 </div>
 
